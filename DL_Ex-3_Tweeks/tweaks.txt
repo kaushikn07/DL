@@ -1,0 +1,8 @@
+Original Model ~63%
+Modified Model (Increased Layers) ~77%
+Modified Model (ReLU Activation)~77%
+
+Tweaks applied:
+1. Increased the hidden layers from two to four
+2. Changed the activation function from sigmoid to relu
+
